@@ -8,10 +8,10 @@
 
 ```typescript
 const joao = {
-  tools: ["NextJS", "ReactJS", "TailwindCss", "Jotai", "GSAP", "Framer Motion", "Styled-Components", "BootStrap", "jQuery"],
+  tools: ["NextJS", "Node", "ReactJS", "TailwindCss", "Jotai", "GSAP", "Framer Motion", "Styled-Components", "BootStrap", "jQuery"],
   code: ["Typescript", "Python", "Javascript", "HTML", "CSS", "SCSS"],
-  learning: ["Node", "Docker", "Swift"],
-  goal: "To become a Full Stack Web Developer and an iOS Developer",
+  learning: ["Docker", "Swift"],
+  goal: "To become a Senior Full Stack Web Developer and an iOS Developer",
   hobbies: ["Videogames", "Music"]
 }
 ```
