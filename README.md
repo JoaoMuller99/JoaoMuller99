@@ -9,7 +9,7 @@
 ```typescript
 const joao = {
   tools: ["NextJS", "Node", "ReactJS", "TailwindCss", "Jotai", "GSAP", "Framer Motion", "Styled-Components", "BootStrap", "jQuery"],
-  code: ["Typescript", "Python", "Javascript", "HTML", "CSS", "SCSS"],
+  code: ["TypeScript", "Python", "JavaScript", "HTML", "CSS", "SCSS"],
   learning: ["Docker", "Swift"],
   goal: "To become a Senior Full Stack Web Developer and an iOS Developer",
   hobbies: ["Videogames", "Music"]
