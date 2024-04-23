@@ -9,8 +9,7 @@
 ```typescript
 const joao = {
   tools: ["NextJS", "Fastify", "ReactJS", "Django", "TailwindCSS", "jQuery"],
-  code: ["TypeScript", "Python", "JavaScript", "SCSS"],
-  learning: ["Docker", "Svelte", "Laravel", "GO"],
+  code: ["TypeScript", "Python", "JavaScript", "PHP"],
   goal: "To become a Senior Full-Stack Web Developer",
   hobbies: ["Videogames", "Music", "Coding"]
 }
