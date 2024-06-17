@@ -8,7 +8,7 @@
 
 ```typescript
 const joao = {
-  tools: ["NextJS", "Fastify", "ReactJS", "Django", "TailwindCSS", "jQuery"],
+  tools: ["NextJS", "Fastify", "ReactJS", "Node", "TailwindCSS", "jQuery"],
   code: ["TypeScript", "Python", "JavaScript", "PHP"],
   goal: "To become a Senior Full-Stack Web Developer",
   hobbies: ["Videogames", "Music", "Coding"]
