@@ -8,7 +8,7 @@
 
 ```typescript
 const joao = {
-  tools: ["NextJs", "Node", "React Native", "Electron", "NestJs", "Fastify", "React", "TailwindCSS", "jQuery"],
+  tools: ["NextJs", "Node", "React Native", "Electron", "NestJs", "Fastify", "React", "jQuery"],
   code: ["TypeScript", "JavaScript", "Python"],
   hobbies: ["Videogames", "Music", "Coding"]
 }
